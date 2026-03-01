@@ -3,7 +3,7 @@
 Hey, I'm Kaushal, a Software Engineer/Researcher
 
 Interests:
-- Scalable Backend Engineering
+- Backend Engineering, Infra
 - MLSys, Privacy Preserving systems.
 - Research × Production Engineering
 
